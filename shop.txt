@@ -1,0 +1,11 @@
+Apple 5
+Milk 8.50
+Bread 9
+Coffee 15
+Tea 9.55
+Cheese 21
+Water 7.50
+Chocolate 25.55
+Pasta 32.50
+Sugar 11.7
+Butter 29.55
